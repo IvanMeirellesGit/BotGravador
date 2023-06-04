@@ -1,9 +1,13 @@
 import pyautogui
 import time
 
-pyautogui.PAUSE = 1
-pyautogui.press("Win")
-pyautogui.write("Edge")
-pyautogui.press("Enter")
+p = pyautogui
 
-time.sleep(5)
+
+def abrirNav():
+    p.press('win')
+    p.write("Edge")
+    p.press("Enter")
+
+
+abrirNav()

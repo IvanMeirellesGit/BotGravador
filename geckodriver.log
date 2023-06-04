@@ -1,0 +1,278 @@
+1685899663132	geckodriver	INFO	Listening on 127.0.0.1:50158
+1685899666220	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50159" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ivan_\\AppData\\Local\\Temp\\rust_mozprofilet0slZB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685899668139	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685899668150	Marionette	INFO	Listening on port 50170
+Read port: 50170
+WebDriver BiDi listening on ws://127.0.0.1:50159
+1685899669002	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ivan_\\AppData\\Local\\Temp\\rust_mozprofilet0slZB\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:50159/devtools/browser/429a6251-66f5-4a58-839f-8080054e621b
+JavaScript warning: https://passport.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/fp?x-kpsdk-v=j-0.0.0, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://passport.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/fp?x-kpsdk-v=j-0.0.0, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gql.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/fp?x-kpsdk-v=j-0.0.0, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.twitch.tv/, line 1: Error: Loading CSS chunk 29662 failed.
+(https://static.twitchcdn.net/assets/features.whispers-b197dd21aa7cd4990302.css)
+1685899810884	Marionette	INFO	Stopped listening on port 50170
+Dynamically enable window occlusion 1
+1685899820714	geckodriver	INFO	Listening on 127.0.0.1:50331
+1685899823770	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50332" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ivan_\\AppData\\Local\\Temp\\rust_mozprofileBD8ShW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685899824227	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685899824233	Marionette	INFO	Listening on port 50341
+Read port: 50341
+WebDriver BiDi listening on ws://127.0.0.1:50332
+1685899824512	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ivan_\\AppData\\Local\\Temp\\rust_mozprofileBD8ShW\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:50332/devtools/browser/5c127477-b954-45ef-95b1-8e4ce557b101
+JavaScript warning: https://passport.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/fp?x-kpsdk-v=j-0.0.0, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://passport.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/fp?x-kpsdk-v=j-0.0.0, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gql.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/fp?x-kpsdk-v=j-0.0.0, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.twitch.tv."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+SourceActor threw an exception: Error: Failed to fetch https://p.twitchcdn.net/v3/polyfill.min.js?unknown=polyfill&flags=gated&features=Array.prototype.find,Array.prototype.findIndex,Array.prototype.includes,Array.prototype.flatMap,default,fetch,Intl.~locale.en,Intl.ListFormat,Math.sign,Object.entries%7Calways%7Cgated,Object.values%7Calways%7Cgated,String.prototype.repeat,URL,HTMLCanvasElement.prototype.toBlob,IntersectionObserver,ResizeObserver,Symbol.iterator. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://p.twitchcdn.net/v3/polyfill.min.js?unknown=polyfill&flags=gated&features=Array.prototype.find,Array.prototype.findIndex,Array.prototype.includes,Array.prototype.flatMap,default,fetch,Intl.~locale.en,Intl.ListFormat,Math.sign,Object.entries%7Calways%7Cgated,Object.values%7Calways%7Cgated,String.prototype.repeat,URL,HTMLCanvasElement.prototype.toBlob,IntersectionObserver,ResizeObserver,Symbol.iterator. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+SourceActor threw an exception: Error: Failed to fetch https://static.twitchcdn.net/config/settings.5800d5f37201745202ceb672a6f72e6d.js. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://static.twitchcdn.net/config/settings.5800d5f37201745202ceb672a6f72e6d.js. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://p.twitchcdn.net/v3/polyfill.min.js?unknown=polyfill&flags=gated&features=Array.prototype.find,Array.prototype.findIndex,Array.prototype.includes,Array.prototype.flatMap,default,fetch,Intl.~locale.en,Intl.ListFormat,Math.sign,Object.entries%7Calways%7Cgated,Object.values%7Calways%7Cgated,String.prototype.repeat,URL,HTMLCanvasElement.prototype.toBlob,IntersectionObserver,ResizeObserver,Symbol.iterator. Code 2153390067.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://static.twitchcdn.net/config/settings.5800d5f37201745202ceb672a6f72e6d.js. Code 2153390067.
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+SourceActor threw an exception: Error: Failed to fetch https://www.twitch.tv/. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://www.twitch.tv/. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://www.twitch.tv/. Code 2153390067.
+SourceActor threw an exception: Error: Failed to fetch https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1. Code 2153390067.
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 200: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 200: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 200: TypeError: rule is undefined
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 325))
+console.error: "stylesheets: fetch failed for https://static.twitchcdn.net/assets/core-0ae765aebc462a7be9df.css, using system principal instead."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1685900147779	Marionette	INFO	Stopped listening on port 50341
+Dynamically enable window occlusion 1
+1685900149365	geckodriver	INFO	Listening on 127.0.0.1:50760
+1685900152514	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50761" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ivan_\\AppData\\Local\\Temp\\rust_mozprofileLrYaBQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685900153176	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685900153194	Marionette	INFO	Listening on port 50771
+WebDriver BiDi listening on ws://127.0.0.1:50761
+Read port: 50771
+Read port: 50771
+Read port: 50771
+Read port: 50771
+Read port: 50771
+Read port: 50771
+Read port: 50771
+1685900160502	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ivan_\\AppData\\Local\\Temp\\rust_mozprofileLrYaBQ\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:50761/devtools/browser/aeb0d3ca-a588-4417-b6d9-0f48bdfe0a56
+JavaScript warning: https://passport.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/fp?x-kpsdk-v=j-0.0.0, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://passport.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/fp?x-kpsdk-v=j-0.0.0, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gql.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/fp?x-kpsdk-v=j-0.0.0, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 325))
+1685900543364	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1685900652321	Marionette	INFO	Stopped listening on port 50771
+Dynamically enable window occlusion 1
+reference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685900357542	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685900357551	Marionette	INFO	Listening on port 50978
+Read port: 50978
+WebDriver BiDi listening on ws://127.0.0.1:50969
+1685900357845	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ivan_\\AppData\\Local\\Temp\\rust_mozprofileQuf3Gw\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:50969/devtools/browser/17a2cf0d-de69-4500-90cf-d21ffb5dd11f
+JavaScript warning: https://passport.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/fp?x-kpsdk-v=j-0.0.0, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://passport.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/fp?x-kpsdk-v=j-0.0.0, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gql.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/fp?x-kpsdk-v=j-0.0.0, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.twitch.tv."
+SourceActor threw an exception: [Exception... "Failed to open input source 'chrome://global/content/neterror/aboutNetErrorCodes.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'chrome://global/content/neterror/aboutNetErrorCodes.js'
+SourceActor threw an exception: Error: Failed to fetch https://static.twitchcdn.net/config/settings.5800d5f37201745202ceb672a6f72e6d.js. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://static.twitchcdn.net/config/settings.5800d5f37201745202ceb672a6f72e6d.js. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://static.twitchcdn.net/config/settings.5800d5f37201745202ceb672a6f72e6d.js. Code 2153390067.
+SourceActor threw an exception: Error: Failed to fetch https://p.twitchcdn.net/v3/polyfill.min.js?unknown=polyfill&flags=gated&features=Array.prototype.find,Array.prototype.findIndex,Array.prototype.includes,Array.prototype.flatMap,default,fetch,Intl.~locale.en,Intl.ListFormat,Math.sign,Object.entries%7Calways%7Cgated,Object.values%7Calways%7Cgated,String.prototype.repeat,URL,HTMLCanvasElement.prototype.toBlob,IntersectionObserver,ResizeObserver,Symbol.iterator. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://p.twitchcdn.net/v3/polyfill.min.js?unknown=polyfill&flags=gated&features=Array.prototype.find,Array.prototype.findIndex,Array.prototype.includes,Array.prototype.flatMap,default,fetch,Intl.~locale.en,Intl.ListFormat,Math.sign,Object.entries%7Calways%7Cgated,Object.values%7Calways%7Cgated,String.prototype.repeat,URL,HTMLCanvasElement.prototype.toBlob,IntersectionObserver,ResizeObserver,Symbol.iterator. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://p.twitchcdn.net/v3/polyfill.min.js?unknown=polyfill&flags=gated&features=Array.prototype.find,Array.prototype.findIndex,Array.prototype.includes,Array.prototype.flatMap,default,fetch,Intl.~locale.en,Intl.ListFormat,Math.sign,Object.entries%7Calways%7Cgated,Object.values%7Calways%7Cgated,String.prototype.repeat,URL,HTMLCanvasElement.prototype.toBlob,IntersectionObserver,ResizeObserver,Symbol.iterator. Code 2153390067.
+SourceActor threw an exception: Error: Failed to fetch https://www.twitch.tv/. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://www.twitch.tv/. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://www.twitch.tv/. Code 2153390067.
+SourceActor threw an exception: Error: Failed to fetch https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1. Code 2153390067.
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 325))
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1685900650095	Marionette	INFO	Stopped listening on port 50978
+Dynamically enable window occlusion 1
+1685900787691	geckodriver	INFO	Listening on 127.0.0.1:51320
+1685900791261	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51321" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ivan_\\AppData\\Local\\Temp\\rust_mozprofilebe3vjY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685900792161	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685900792170	Marionette	INFO	Listening on port 51330
+Read port: 51330
+WebDriver BiDi listening on ws://127.0.0.1:51321
+1685900792452	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ivan_\\AppData\\Local\\Temp\\rust_mozprofilebe3vjY\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:51321/devtools/browser/fc9feba3-cb01-4ad1-a833-fa2d8ce822b7
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 488))
+JavaScript warning: https://passport.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/fp?x-kpsdk-v=j-0.0.0, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://passport.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/fp?x-kpsdk-v=j-0.0.0, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gql.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/fp?x-kpsdk-v=j-0.0.0, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.twitch.tv/cellbit, line 1: Error: Loading CSS chunk 54142 failed.
+(https://static.twitchcdn.net/assets/features.community-points.components.reward-center-d7f432edfb3ee3cecce3.css)
+1685900860674	Marionette	INFO	Stopped listening on port 51330
+Dynamically enable window occlusion 1
